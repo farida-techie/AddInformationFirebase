@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665127263180",
+    "project_id": "addinformationteacher",
+    "storage_bucket": "addinformationteacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665127263180:android:7a6a8b73eaeb1ff349db69",
+        "android_client_info": {
+          "package_name": "com.malkinfo.addinformationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665127263180-vip90phkbjb2pn9h218lrleruvihkd3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsbBlkBAdNqylCfnE93xFZmctsaEZmRCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665127263180-vip90phkbjb2pn9h218lrleruvihkd3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
